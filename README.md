@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## 中梁云山和院项目介绍
 
-You can use the [editor on GitHub](https://github.com/zhongliangweiquan/zhongliang/edit/source/README.md) to maintain and preview the content for your website in Markdown files.
+中梁云山和院位于山东省济南市天桥区药山街道办事处、药山片区，该楼盘位于齐烟九点药山以西，洋涓湖及天桥体育馆路西，药山社区医院以北，时代总部基地以东，万科北宸之光以南。中梁云山和院临近二环北路、百里黄河、蓝翔技校、济南殡仪馆、东沙王庄火车站等项目，具有得天独厚的风水优势，南边医院及殡仪馆近在咫尺、北边紧邻挖掘机美容美发物流公司，东边泺口服装城、济南通讯城、济南动物园也不太远，西边不远直达德州齐河地界。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhongliangweiquan/zhongliang/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+药山西片区X地块24班小学紧邻中梁地块，置业顾问承诺配套，中梁出示药山西小学代建合同，但实际代建为万科北宸之光，现为万科北宸之光教育配套，目前部分业主正积极参与维权工作中。
